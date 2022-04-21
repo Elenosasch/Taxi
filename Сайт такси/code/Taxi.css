@@ -449,6 +449,7 @@ textarea {
 }
 .order-tabs__nav-btn {
 	background: transparent;
+	transition: all 0.3s ease 0s;
 }
 .order-tabs-btn__num {
 	margin: 0px auto 10px auto;
