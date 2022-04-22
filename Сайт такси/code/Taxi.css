@@ -1459,6 +1459,7 @@ input {
 }
 .spoilers-block__title.active {
 	background-color: #ffc40b;
+	transition: all 0.6s ease 0s;
 }
 .spoilers-block__text {
 	display: none;
