@@ -1461,6 +1461,10 @@ input {
 	background-color: #ffc40b;
 	transition: all 0.6s ease 0s;
 }
+.spoilers-block__title:hover {
+	background: #ffc40b;
+	transition: all 0.6s ease 0s;
+}
 .spoilers-block__text {
 	display: none;
 }
